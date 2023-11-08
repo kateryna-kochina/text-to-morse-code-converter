@@ -1,3 +1,5 @@
+# Text to Morse Code Converter
+
 ## Features
 
 * Convert plain text into Morse code
