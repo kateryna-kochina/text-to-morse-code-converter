@@ -15,11 +15,11 @@ git clone https://github.com/kateryna-kochina/text-to-morse-code-converter.git
 ```
 cd text-to-morse-code-converter/
 ```
-3. Run the Python script with the text you want to convert:
+3. Run the Python script with the text you want to convert
 ```
 python app/main.py
 ```
-and provide in the console the text you'd like to convert.
+4. In the console, provide the text you'd like to convert.
 5. The program will output the Morse code representation of the input text.
 
 
@@ -27,11 +27,12 @@ and provide in the console the text you'd like to convert.
 
 Input:
 ```
-Please enter text you'd like to be converted to the Morse code: **Hello World!**
+Please enter text you'd like to be converted to the Morse code: Hello World!
 ```
+
 Output:
 ```
-Your converted text is: **.... . .-.. .-.. ---         .-- --- .-. .-.. -.. -.-.--**
+Your converted text is: .... . .-.. .-.. ---         .-- --- .-. .-.. -.. -.-.--
 ```
 
 ## License
