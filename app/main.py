@@ -1,4 +1,4 @@
-from app.morse_code_converter import convert_text
+from morse_code_converter import convert_text
 
 
 # Getting user input for the text to be converted
@@ -7,8 +7,6 @@ text_to_convert = input(
 
 try:
     # Attempting to convert the input text to Morse code
-    print('dfxcghvjklm;kjhgfchvjb')
-    print('dfxcghvjklm;kjhgfchvjb')
     print(f'Your converted text is: {convert_text(text_to_convert)}')
 
 except KeyError:
